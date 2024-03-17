@@ -89,6 +89,9 @@
 5. 函数形参中使用 const 关键字修饰的含义和用法
 
 # 第二章 string 字符串
+1. string 类型简介
+2. 定义和初始化 string对象
+3. string对象上的操作
 
 # 第二章 vector 向量
 

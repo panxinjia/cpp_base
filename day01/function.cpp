@@ -60,7 +60,25 @@ void fs(int i) {}
 void fs(double d) {}
 
 // 4. const int*, int* const, const int* const  变量修饰
-// 
+// const int& ref = 20;  -> 只读引用, 可以指向一个字面量
+
+
+// 5. const 修饰函数参数
+// 避免意外的值修改
+// 可以让调用更加灵活 -> 理解这句话 -> 明确只读的内容, 可以用 const 修饰提高灵活性
+struct Person {
+public:
+    int number;
+    char name[100]; 
+};
+
+void updatePerson(const Person& person) {
+    // person.number = 200;  // error  只读引用
+}
+
+void fn8(const int value) {
+    // value = 10; // error
+}
 
 int main()
 {
