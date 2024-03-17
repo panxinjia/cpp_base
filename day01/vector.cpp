@@ -39,6 +39,11 @@ int main(int argc, char const *argv[])
     // 使用 {} 初始化时, 需要注意区分类型
 
     // vector 上的操作
-    // empty push_back
+    // empty push_back size clear []访问 = == !=
+
+    // 范围for操作
+
+    // 范围for是迭代器的语法糖, 并发修改异常 (迭代时执行了插入, 删除操作)
+
     return 0;
 }

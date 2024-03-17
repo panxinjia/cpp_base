@@ -94,7 +94,19 @@
 3. string对象上的操作
 
 # 第二章 vector 向量
+1. vector 简介
+2. vector 声明和初始化
+3. vector 对象上的操作 (迭代器注意事项)
 
 # 第二章 迭代器 Iterator 迭代器失效与解决方式
+1. 容器的迭代器类型
+2. 正反向迭代  begin()/end()  rbegin()/rend()
+3. const_iterator 迭代器 cbegin() cend()
+4. 迭代器失效 - 失效场景
+5. 演示 string迭代, vector容器常用操作与内存释放
 
 # 第二章 c++ 类型转换
+1. const_cast
+2. static_cast
+3. dynamic_cast
+4. reinterprent_cast
