@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdio>
 
+// 冲突情况
 using namespace std;
 
 namespace zs {
@@ -16,9 +17,14 @@ namespace lisi {
 }
 
 namespace zs {
+  int value = 30; 
   int add(int a, int b) {
     return a + b;
   }
+}
+
+namespace lisi {
+  int value = 20; 
 }
 
 struct student {
@@ -45,5 +51,9 @@ int main(int args, const char* argv[]) {
   // 不太好的想写法, 副作用和输出语句在一块
   int i = 2;
   cout << i-- << ", " << i-- << endl;
+
+  cout << "============>" << endl; 
+  cout << zs::value << endl;
+  cout << lisi::value  << endl; 
   return 0;
 }
