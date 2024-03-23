@@ -2,6 +2,8 @@
 
 #define ADD '+'
 
+#include <stdio.h>
+
 typedef struct Stack {
     void* addr;
     size_t size;
