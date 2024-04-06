@@ -1,0 +1,5 @@
+# ninja log v5
+1	52	7341105276025663	CMakeFiles/03.danger_pointer.c.dir/03.danger_pointer.c.obj	725c497d8ff7cfc
+50	145	7341106071500005	03.danger_pointer.c.exe	b578f217e275a048
+1	49	7341106070567688	CMakeFiles/03.danger_pointer.c.dir/src/b.c.obj	9fa0d0d15017b040
+4	50	7341106070567688	CMakeFiles/03.danger_pointer.c.dir/src/a.c.obj	78251cc9b992805c
