@@ -173,7 +173,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\m1513\CLionProjects\muke\chap03 -BC:\Users\m1513\CLionProjects\muke\chap03\cmake-build-release-visual-studio-64
+  command = "C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\m1513\Desktop\cpp_base\muke_c\chap03 -BC:\Users\m1513\Desktop\cpp_base\muke_c\chap03\cmake-build-release-visual-studio-64
   description = Re-running CMake...
   generator = 1
 

@@ -4,10 +4,9 @@
 2	50	7340707987787593	CMakeFiles/02_data_types_char.c.dir/02_data_types_char.c.obj	f4449a7c182481e5
 0	47	7340400860485736	CMakeFiles/01_data_types.c.dir/01_data_types.c.obj	7c2ce967bfdff73e
 52	141	7340726696062571	05_constant.c.exe	39d804e5728e06bd
-1	42	7340400608312174	CMakeFiles/main.c.dir/01_data_types.c.obj	1669d18afd2f3cb5
-2	87	7340745571181803	build.ninja	b9fd3a0d7f4aa0d4
-47	137	7340400861343804	01_data_types.c.exe	ee0b1a124023eb8f
+2	87	7340748399493867	build.ninja	b9fd3a0d7f4aa0d4
 51	141	7340707988659272	02_data_types_char.c.exe	92c93a2fb4c17663
+47	137	7340400861343804	01_data_types.c.exe	ee0b1a124023eb8f
 0	48	7340708095828765	CMakeFiles/03_data_types_float.c.dir/03_data_types_float.c.obj	bbd82ac88ba5d795
 48	136	7340708096684702	03_data_types_float.c.exe	b95ad450d06a80f3
 2	48	7340723770363302	CMakeFiles/04_variable.c.dir/04_variable.c.obj	331fa608a0758791
@@ -17,3 +16,5 @@
 50	141	7340732428377781	06_operators.c.exe	b339d1634dfc0bbe
 1	50	7340745634262372	CMakeFiles/07_condition.c.dir/07_condition.c.obj	a91ca0e58c5c5b69
 50	145	7340745635187690	07_condition.c.exe	29b6fcf5541c9373
+1	51	7340748528830762	CMakeFiles/07_condition.c.dir/07_condition.c.obj	e93b2523879ee499
+52	141	7340748529685554	07_condition.c.exe	29b6fcf5541c9373

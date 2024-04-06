@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/m1513/CLionProjects/muke/chap03
+# Install script for directory: C:/Users/m1513/Desktop/cpp_base/muke_c/chap03
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/m1513/Desktop/cpp_base/muke_c/chap03/cmake-build-mingw/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

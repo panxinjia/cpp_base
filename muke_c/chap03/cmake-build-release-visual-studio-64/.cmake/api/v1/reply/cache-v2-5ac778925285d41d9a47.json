@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/m1513/CLionProjects/muke/chap03/cmake-build-release-visual-studio-64"
+			"value" : "c:/Users/m1513/Desktop/cpp_base/muke_c/chap03/cmake-build-release-visual-studio-64"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -367,7 +367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-release-visual-studio-64/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/m1513/Desktop/cpp_base/muke_c/chap03/cmake-build-release-visual-studio-64/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -427,7 +427,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/m1513/CLionProjects/muke/chap03"
+			"value" : "C:/Users/m1513/Desktop/cpp_base/muke_c/chap03"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -975,7 +975,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-release-visual-studio-64"
+			"value" : "C:/Users/m1513/Desktop/cpp_base/muke_c/chap03/cmake-build-release-visual-studio-64"
 		},
 		{
 			"name" : "chap03_IS_TOP_LEVEL",
@@ -999,7 +999,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/m1513/CLionProjects/muke/chap03"
+			"value" : "C:/Users/m1513/Desktop/cpp_base/muke_c/chap03"
 		}
 	],
 	"kind" : "cache",
