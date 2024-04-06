@@ -1,0 +1,5 @@
+# ninja log v5
+0	77	7340399986896565	CMakeFiles/main.c.dir/main.c.obj	977d12c11e45227
+78	167	7340399987626383	main.c.exe	7cb37786e93137cc
+0	60	7340724946497970	CMakeFiles/05_constant.c.dir/05_constant.c.obj	477c5dc4802448fb
+60	143	7340724947194360	05_constant.c.exe	116b10061f66cb7b

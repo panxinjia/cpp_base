@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_data_types.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_data_types.c-Debug-46a4bb41f19cc77896d5.json",
+					"name" : "01_data_types.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_data_types_char.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_data_types_char.c-Debug-12c6b6de84ce0d3b58a1.json",
+					"name" : "02_data_types_char.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_data_types_float.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_data_types_float.c-Debug-aba8058f0dc1e654c0df.json",
+					"name" : "03_data_types_float.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_variable.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_variable.c-Debug-d77a9b13a2483d57ca41.json",
+					"name" : "04_variable.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_constant.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_constant.c-Debug-324dc2d20b5439c6f2aa.json",
+					"name" : "05_constant.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_operators.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_operators.c-Debug-8fc39953a538ad672bc1.json",
+					"name" : "06_operators.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_condition.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_condition.c-Debug-ae85fcd9b01d2bea6386.json",
+					"name" : "07_condition.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Debug-e0c16cb69b52023f3d8d.json",
+					"name" : "main.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw",
+		"source" : "C:/Users/m1513/CLionProjects/muke/chap03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

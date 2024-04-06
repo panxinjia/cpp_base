@@ -1,0 +1,10 @@
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/01_data_types.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/02_data_types_char.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/03_data_types_float.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/04_variable.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/05_constant.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/06_operators.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/07_condition.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/main.c.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-mingw/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap03",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_data_types.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_data_types.c-Release-af4c727f104ccb6ef893.json",
+					"name" : "01_data_types.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_data_types_char.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_data_types_char.c-Release-1601e88a0c1a941e80db.json",
+					"name" : "02_data_types_char.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_data_types_float.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_data_types_float.c-Release-773a7142c187f36a7a98.json",
+					"name" : "03_data_types_float.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_variable.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_variable.c-Release-0e4bfe1657b841211311.json",
+					"name" : "04_variable.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_constant.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_constant.c-Release-7c86a90417891d6d3ad6.json",
+					"name" : "05_constant.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_operators.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_operators.c-Release-94a82b5b0f74b96f175f.json",
+					"name" : "06_operators.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_condition.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_condition.c-Release-4ad596808963b04ca3d1.json",
+					"name" : "07_condition.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Release-1ae50adca86fba71e818.json",
+					"name" : "main.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/m1513/CLionProjects/muke/chap03/cmake-build-release-visual-studio-64",
+		"source" : "C:/Users/m1513/CLionProjects/muke/chap03"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
