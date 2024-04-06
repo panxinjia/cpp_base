@@ -1,0 +1,11 @@
+# ninja log v5
+0	58	1712376456475679085	CMakeFiles/01.function_basics.c.dir/01.function_basics.c.o	80d83063cf7f1a25
+1	166	1712377996531065963	CMakeFiles/03_variable_types_and_scopes.c.dir/03_variable_types_and_scopes.c.o	7137569ed319fedc
+24	53	1712376683325873149	02_proto_type.c	b772ed50b9d7979b
+0	24	1712376683296766854	CMakeFiles/02_proto_type.c.dir/02_proto_type.c.o	990c5981cc9a40c7
+1	166	1712377996531071213	CMakeFiles/03_variable_types_and_scopes.c.dir/04_varargs.c.o	ac9eba8e6575221c
+58	91	1712376456507965219	01.function_basics.c	18229f1a8af4e04b
+26	56	1712377611337341829	03_variable_types_and_scopes.c	b62c76ce1c25be10
+0	39	1712378013505636066	03_variable_types_and_scopes.c	b62c76ce1c25be10
+0	28	1712378017509699619	CMakeFiles/04_varargs.c.dir/04_varargs.c.o	8727beeef4cc6b38
+28	58	1712378017540362480	04_varargs.c	9d2dc40c4d0bab00

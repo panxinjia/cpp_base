@@ -1,0 +1,7 @@
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/01.function_basics.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/02_proto_type.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/03_variable_types_and_scopes.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/04_varargs.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/main.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

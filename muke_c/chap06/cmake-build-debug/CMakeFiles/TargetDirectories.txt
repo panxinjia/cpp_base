@@ -1,0 +1,6 @@
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/04_array_paramter.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/05_2d_arrays.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/06_shuffle_array.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/main.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/CMakeFiles/rebuild_cache.dir

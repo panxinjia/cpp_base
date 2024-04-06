@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap04",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01.function_basics.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01.function_basics.c-Debug-471548f09579cac29d44.json",
+					"name" : "01.function_basics.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_proto_type.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_proto_type.c-Debug-68bbe505c378af2b8a4d.json",
+					"name" : "02_proto_type.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_variable_types_and_scopes.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_variable_types_and_scopes.c-Debug-3a65a79fcfb96f3a370c.json",
+					"name" : "03_variable_types_and_scopes.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_varargs.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_varargs.c-Debug-659859bc2337ea2b7be4.json",
+					"name" : "04_varargs.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Debug-f393f8c7225687c0c832.json",
+					"name" : "main.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap04/cmake-build-debug",
+		"source" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap04"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
