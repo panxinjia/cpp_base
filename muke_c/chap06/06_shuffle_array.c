@@ -12,6 +12,20 @@ void swap(void* ip1, void* ip2, size_t size) {
   memcpy(ip2, buf, size);
 }
 
+// memcpy memmove memcmp
+void swap2(void* vp1, void* vp2, size_t size) {
+  char* buf = (char*) malloc(size);
+  if (buf) {
+    memcpy(buf, vp1, size);
+    memcpy(vp1, vp2, size);
+    memcpy(vp2, buf, size);
+    free(buf);
+    buf = NULL;
+  }else {
+    exit(EXIT_FAILURE);
+  }
+}
+
 
 void Swap(int arr[], int m, int n) {
   int temp = arr[m];
@@ -30,7 +44,6 @@ void ShuffleArray(int arr[], int len) {
 void Partition(int arr[], int len, int l, int r) {
 }
 
-// TODO 快速排序
 void QuickSort(int arr[], int len, int l, int r) {
 
 }

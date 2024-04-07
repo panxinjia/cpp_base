@@ -1,4 +1,0 @@
-C:/Users/m1513/Desktop/cpp_base/muke_c/chap07/cmake-build-mingw/CMakeFiles/03.danger_pointer.c.dir
-C:/Users/m1513/Desktop/cpp_base/muke_c/chap07/cmake-build-mingw/CMakeFiles/main.c.dir
-C:/Users/m1513/Desktop/cpp_base/muke_c/chap07/cmake-build-mingw/CMakeFiles/edit_cache.dir
-C:/Users/m1513/Desktop/cpp_base/muke_c/chap07/cmake-build-mingw/CMakeFiles/rebuild_cache.dir

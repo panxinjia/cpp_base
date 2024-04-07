@@ -12,6 +12,7 @@
 
 // 打印数组
 #define PRINT_INT(value) PRINTLNF(#value" => %d", value)
+#define PRINT_HEX(value) PRINTLNF(#value" => 0x%x", value)
 
 // 打印数组
 #define PRINT_INT_ARR(arr, len) { \
@@ -20,7 +21,7 @@
   }                                 \
 }
 
-#define PRINT_INT_ARR_FLAT(arr, len) { \
+#define PRINT_INT_ARR_FLAT(arr, len)  \
   printf("[");                         \
   for(int i = 0; i < len; i++) {       \
     printf("%d", arr[i]);              \
@@ -28,7 +29,18 @@
       printf(", ");                    \
     }                                  \
   }                                    \
-  printf("]");\
-}
+  printf("]\n");\
+
+
+#define PRINT_DOUBLE_ARR_FLAT(arr, len)  \
+  printf("[");                         \
+  for(int i = 0; i < len; i++) {       \
+    printf("%.4f", arr[i]);              \
+    if (i != len - 1) {                \
+      printf(", ");                    \
+    }                                  \
+  }                                    \
+  printf("]\n");\
+
 
 #endif //CHAP06_INCLUDE_IO_H_

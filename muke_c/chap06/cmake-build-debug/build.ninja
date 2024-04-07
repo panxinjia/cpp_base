@@ -41,6 +41,70 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug/
 # =============================================================================
+# Object build statements for EXECUTABLE target 01_array_basic.c
+
+
+#############################################
+# Order-only phony target for 01_array_basic.c
+
+build cmake_object_order_depends_target_01_array_basic.c: phony || CMakeFiles/01_array_basic.c.dir
+
+build CMakeFiles/01_array_basic.c.dir/01_array_basic.c.o: C_COMPILER__01_array_basic.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/01_array_basic.c || cmake_object_order_depends_target_01_array_basic.c
+  DEP_FILE = CMakeFiles/01_array_basic.c.dir/01_array_basic.c.o.d
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
+  OBJECT_DIR = CMakeFiles/01_array_basic.c.dir
+  OBJECT_FILE_DIR = CMakeFiles/01_array_basic.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 01_array_basic.c
+
+
+#############################################
+# Link the executable 01_array_basic.c
+
+build 01_array_basic.c: C_EXECUTABLE_LINKER__01_array_basic.2ec_Debug CMakeFiles/01_array_basic.c.dir/01_array_basic.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk
+  OBJECT_DIR = CMakeFiles/01_array_basic.c.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 01_array_basic.c
+  TARGET_PDB = 01_array_basic.c.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 03_string.c
+
+
+#############################################
+# Order-only phony target for 03_string.c
+
+build cmake_object_order_depends_target_03_string.c: phony || CMakeFiles/03_string.c.dir
+
+build CMakeFiles/03_string.c.dir/03_string.c.o: C_COMPILER__03_string.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/03_string.c || cmake_object_order_depends_target_03_string.c
+  DEP_FILE = CMakeFiles/03_string.c.dir/03_string.c.o.d
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
+  OBJECT_DIR = CMakeFiles/03_string.c.dir
+  OBJECT_FILE_DIR = CMakeFiles/03_string.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 03_string.c
+
+
+#############################################
+# Link the executable 03_string.c
+
+build 03_string.c: C_EXECUTABLE_LINKER__03_string.2ec_Debug CMakeFiles/03_string.c.dir/03_string.c.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk
+  OBJECT_DIR = CMakeFiles/03_string.c.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = 03_string.c
+  TARGET_PDB = 03_string.c.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target 04_array_paramter.c
 
 
@@ -51,7 +115,7 @@ build cmake_object_order_depends_target_04_array_paramter.c: phony || CMakeFiles
 
 build CMakeFiles/04_array_paramter.c.dir/04_array_paramter.c.o: C_COMPILER__04_array_paramter.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/04_array_paramter.c || cmake_object_order_depends_target_04_array_paramter.c
   DEP_FILE = CMakeFiles/04_array_paramter.c.dir/04_array_paramter.c.o.d
-  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
   OBJECT_DIR = CMakeFiles/04_array_paramter.c.dir
   OBJECT_FILE_DIR = CMakeFiles/04_array_paramter.c.dir
@@ -83,7 +147,7 @@ build cmake_object_order_depends_target_05_2d_arrays.c: phony || CMakeFiles/05_2
 
 build CMakeFiles/05_2d_arrays.c.dir/05_2d_arrays.c.o: C_COMPILER__05_2d_arrays.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/05_2d_arrays.c || cmake_object_order_depends_target_05_2d_arrays.c
   DEP_FILE = CMakeFiles/05_2d_arrays.c.dir/05_2d_arrays.c.o.d
-  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
   OBJECT_DIR = CMakeFiles/05_2d_arrays.c.dir
   OBJECT_FILE_DIR = CMakeFiles/05_2d_arrays.c.dir
@@ -115,7 +179,7 @@ build cmake_object_order_depends_target_06_shuffle_array.c: phony || CMakeFiles/
 
 build CMakeFiles/06_shuffle_array.c.dir/06_shuffle_array.c.o: C_COMPILER__06_shuffle_array.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/06_shuffle_array.c || cmake_object_order_depends_target_06_shuffle_array.c
   DEP_FILE = CMakeFiles/06_shuffle_array.c.dir/06_shuffle_array.c.o.d
-  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
   OBJECT_DIR = CMakeFiles/06_shuffle_array.c.dir
   OBJECT_FILE_DIR = CMakeFiles/06_shuffle_array.c.dir
@@ -147,7 +211,7 @@ build cmake_object_order_depends_target_main.c: phony || CMakeFiles/main.c.dir
 
 build CMakeFiles/main.c.dir/main.c.o: C_COMPILER__main.2ec_unscanned_Debug /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/main.c || cmake_object_order_depends_target_main.c
   DEP_FILE = CMakeFiles/main.c.dir/main.c.o.d
-  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
   INCLUDES = -I/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/include
   OBJECT_DIR = CMakeFiles/main.c.dir
   OBJECT_FILE_DIR = CMakeFiles/main.c.dir
@@ -202,7 +266,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug
 
-build all: phony 04_array_paramter.c 05_2d_arrays.c 06_shuffle_array.c main.c
+build all: phony 01_array_basic.c 03_string.c 04_array_paramter.c 05_2d_arrays.c 06_shuffle_array.c main.c
 
 # =============================================================================
 # Built-in targets
