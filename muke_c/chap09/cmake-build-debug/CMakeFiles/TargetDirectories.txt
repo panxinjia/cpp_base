@@ -1,0 +1,4 @@
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap09/cmake-build-debug/CMakeFiles/main.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap09/cmake-build-debug/CMakeFiles/string.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap09/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
