@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap07",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01.pointer_basic.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01.pointer_basic.c-Debug-3429d5d3a579b5583716.json",
+					"name" : "01.pointer_basic.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03.danger_pointer.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03.danger_pointer.c-Debug-dadcd933786df0c07d40.json",
+					"name" : "03.danger_pointer.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04.pointer_operation.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04.pointer_operation.c-Debug-6cfb5a4dcacd8be55786.json",
+					"name" : "04.pointer_operation.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05.ptr_as_return_value.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05.ptr_as_return_value.c-Debug-dba96fa6c707c189dc24.json",
+					"name" : "05.ptr_as_return_value.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06.dynamic_memory_alloc.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06.dynamic_memory_alloc.c-Debug-a9b16c3d399576840902.json",
+					"name" : "06.dynamic_memory_alloc.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_function_pointer.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_function_pointer.c-Debug-6de0268e7a653f756207.json",
+					"name" : "07_function_pointer.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Debug-3e0d9704c57e580bf969.json",
+					"name" : "main.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug",
+		"source" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap07"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

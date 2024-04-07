@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chap07"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01.pointer_basic.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/01.pointer_basic.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 01.pointer_basic.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01.pointer_basic.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/01.pointer_basic.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 01.pointer_basic.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03.danger_pointer.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/03.danger_pointer.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 03.danger_pointer.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03.danger_pointer.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/03.danger_pointer.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 03.danger_pointer.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04.pointer_operation.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/04.pointer_operation.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 04.pointer_operation.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04.pointer_operation.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/04.pointer_operation.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 04.pointer_operation.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05.ptr_as_return_value.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/05.ptr_as_return_value.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 05.ptr_as_return_value.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05.ptr_as_return_value.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/05.ptr_as_return_value.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 05.ptr_as_return_value.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06.dynamic_memory_alloc.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/06.dynamic_memory_alloc.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 06.dynamic_memory_alloc.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06.dynamic_memory_alloc.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/06.dynamic_memory_alloc.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 06.dynamic_memory_alloc.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07_function_pointer.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/07_function_pointer.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 07_function_pointer.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07_function_pointer.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/07_function_pointer.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 07_function_pointer.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.c">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/main.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.c"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.c/fast">
+				<Option output="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/main.c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.c/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/01.pointer_basic.c">
+			<Option target="01.pointer_basic.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/03.danger_pointer.c">
+			<Option target="03.danger_pointer.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/04.pointer_operation.c">
+			<Option target="04.pointer_operation.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/05.ptr_as_return_value.c">
+			<Option target="05.ptr_as_return_value.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/06.dynamic_memory_alloc.c">
+			<Option target="06.dynamic_memory_alloc.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/07_function_pointer.c">
+			<Option target="07_function_pointer.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/main.c">
+			<Option target="main.c"/>
+		</Unit>
+		<Unit filename="/Users/panxinjia/gitlab/cpp_base/muke_c/chap07/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,7 @@
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/01.struct.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/02.memory_align.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/03.union.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/04.enum.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/main.c.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panxinjia/gitlab/cpp_base/muke_c/chap08/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chap06",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_array_basic.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_array_basic.c-Debug-d87b22b86f708bb59dd6.json",
+					"name" : "01_array_basic.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03_string.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03_string.c-Debug-581bea941b0cea0cfc12.json",
+					"name" : "03_string.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_array_paramter.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_array_paramter.c-Debug-268994b44ca73be945b4.json",
+					"name" : "04_array_paramter.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_2d_arrays.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_2d_arrays.c-Debug-8a46ec4a67be2747401d.json",
+					"name" : "05_2d_arrays.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_shuffle_array.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_shuffle_array.c-Debug-2f9c637afcb7521a8098.json",
+					"name" : "06_shuffle_array.c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.c-Debug-74d419cee2a4e5b252c6.json",
+					"name" : "main.c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap06/cmake-build-debug",
+		"source" : "/Users/panxinjia/gitlab/cpp_base/muke_c/chap06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
