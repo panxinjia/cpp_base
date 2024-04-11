@@ -71,6 +71,13 @@ void testLinearSearch() {
  */
 int main() {
 
+  int arr[len] = {0};
+  GeneratorOrderedArray(arr, len);
+  PRINT_INT_ARR(arr, len);
+
+  int result = BinarySearchBase(arr, 99, len);
+  PRINT_INT(result);
+  assert(result == 99);
 
   return 0;
 }

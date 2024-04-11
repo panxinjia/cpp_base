@@ -21,7 +21,19 @@ void* LinearSearch(void* base, void* key, int len, size_t size,
 }
 
 int BinarySearchBase(int arr[], int key, int len) {
-
+  int l = 0;
+  int r = len - 1;
+  while (l < r) {
+    // int mid = l + ((r - l) >> 1);
+    int mid = (l + r) / 2;
+    if (arr[mid] < key) {
+      l = mid + 1;
+    }else if (arr[mid] > key) {
+      r = mid - 1;
+    }else {
+      return mid;
+    }
+  }
   return -1;
 }
 void* BinarySearch(void* lp, void* rp, void* key, size_t size,
