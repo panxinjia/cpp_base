@@ -1,0 +1,3 @@
+/Users/panxinjia/gitlab/cpp_base/network/test01/cmake-build-debug/CMakeFiles/main.c.dir
+/Users/panxinjia/gitlab/cpp_base/network/test01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panxinjia/gitlab/cpp_base/network/test01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
